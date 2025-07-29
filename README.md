@@ -1,4 +1,4 @@
-# 🧠 HTB Writeups by Walter Vannoy
+# 🧠 HTB Writeups by Walter V
 
 Welcome to my collection of Hack The Box (HTB) writeups. This repo documents my progress through retired and active HTB machines as I sharpen my offensive security skills and work toward passing the OSCP exam.
 
@@ -54,7 +54,7 @@ All machines were exploited in an approved lab environment (HTB). This repo is f
 
 ## 📡 Follow the Journey
 
-🧠 Built by [Walter Vannoy](https://github.com/wizardwalter)  
+🧠 Built by [Walter V](https://github.com/wizardwalter)  
 🎯 OSCP Candidate  
 🛡️ Red Team focus  
 🚀 Future founder of **Red AI**
